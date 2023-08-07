@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Desk &#8211; Bin Ahmed</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Home Store</description>
+	<lastBuildDate>Thu, 03 Aug 2023 09:17:08 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
+	<item>
+		<title>Desk brown</title>
+		<link>./../../../product/desk-brown/index.html</link>
+					<comments>./../../../product/desk-brown/index.html#comments</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 02 Aug 2023 04:05:35 +0000</pubDate>
+				<guid isPermaLink="false">./../../../index.html?post_type=product#038;p=1487</guid>
+
+					<description><![CDATA[A clean design that’s just as beautiful on all sides – place it freestanding in the room or against a wall with cables neatly hidden inside. Use with other MALM products in the series for a unified look.]]></description>
+										<content:encoded><![CDATA[<p class="pip-product-details__paragraph">You can collect cables and extension leads on the shelf under the table top, so they’re hidden but still close at hand.</p>
+<p class="pip-product-details__paragraph">Can be placed in the middle of a room because the back is finished.</p>
+<p class="pip-product-details__paragraph">You can mount the storage unit to the right or left, according to your space or preference.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../product/desk-brown/feed/index.html</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Desk black</title>
+		<link>./../../../product/desk-black/index.html</link>
+					<comments>./../../../product/desk-black/index.html#comments</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 02 Aug 2023 04:05:32 +0000</pubDate>
+				<guid isPermaLink="false">./../../../index.html?post_type=product#038;p=1486</guid>
+
+					<description><![CDATA[A clean and simple look that fits just about anywhere. You can combine it with other desks or drawer units in the MICKE series to extend your work space. The clever design at the back hides messy cables.]]></description>
+										<content:encoded><![CDATA[<p class="pip-product-details__paragraph">It’s easy to keep sockets and cables out of sight but close at hand with the cable outlet at the back.</p>
+<p class="pip-product-details__paragraph">You can mount the legs to the right or left, according to your space or preference.</p>
+<p class="pip-product-details__paragraph">Drawer stops prevent the drawers from being pulled out too far.</p>
+<p class="pip-product-details__paragraph">Two people can work comfortably at the desk with this long table top.</p>
+<p class="pip-product-details__paragraph">Can be placed in the middle of a room because the back is finished.</p>
+<p class="pip-product-details__paragraph">You can extend your work surface by combining desks and drawer units. All desks and drawer units in the MICKE series are the same height.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../product/desk-black/feed/index.html</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Desk white</title>
+		<link>./../../../product/desk-white/index.html</link>
+					<comments>./../../../product/desk-white/index.html#comments</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 02 Aug 2023 04:05:23 +0000</pubDate>
+				<guid isPermaLink="false">./../../../index.html?post_type=product#038;p=1485</guid>
+
+					<description><![CDATA[Mix and match your choice of table top and legs – or choose this ready-made combination. Strong and light-weight, made with a technique that uses less raw materials, reducing the impact on the environment.]]></description>
+										<content:encoded><![CDATA[<p class="pip-product-details__paragraph">Pre-drilled holes for legs, for easy assembly.</p>
+<p class="pip-product-details__paragraph">Adjustable feet make the table stand steady also on uneven floors.</p>
+<p class="pip-product-details__paragraph">Board-on-frame is a strong and lightweight material with a frame in wood, particleboard or fibreboard and a recycled paper filling. It requires less raw materials and is easy to transport, which reduces the environmental impact.</p>
+<p class="pip-product-details__paragraph">Board-on-frame is a strong and lightweight material with a frame in wood, particleboard or fibreboard and a recycled paper filling. It requires less raw materials and is easy to transport, which reduces the environmental impact.</p>
+<p class="pip-product-details__paragraph">Adjustable feet make the table stand steady also on uneven floors.</p>
+<p class="pip-product-details__paragraph">Pre-drilled holes for legs, for easy assembly.</p>
+<p class="pip-product-details__paragraph">The tabletop has pre-drilled holes to make it easier to attach to the underframe.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../product/desk-white/feed/index.html</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

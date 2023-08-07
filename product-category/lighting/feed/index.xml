@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Lighting &#8211; Bin Ahmed</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Home Store</description>
+	<lastBuildDate>Thu, 03 Aug 2023 09:18:06 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
+	<item>
+		<title>Floor lamp, arched, light grey</title>
+		<link>./../../../product/floor-lamp-arched-light-grey/index.html</link>
+					<comments>./../../../product/floor-lamp-arched-light-grey/index.html#comments</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 02 Aug 2023 05:56:40 +0000</pubDate>
+				<guid isPermaLink="false">./../../../index.html?post_type=product#038;p=1517</guid>
+
+					<description><![CDATA[With this floor lamp you enjoy overhead lighting – with no ceiling outlet. And since you can slide the lamp base under a sofa, it takes up little floor space. A smart and flexible solution, right?]]></description>
+										<content:encoded><![CDATA[<p class="pip-product-details__paragraph">You can create a soft, cosy atmosphere in your home with a textile shade that spreads a diffused and decorative light.</p>
+<p class="pip-product-details__paragraph">Easy to take home since the lampshade comes in a flat-pack.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../product/floor-lamp-arched-light-grey/feed/index.html</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Work lamp, black</title>
+		<link>./../../../product/work-lamp-black/index.html</link>
+					<comments>./../../../product/work-lamp-black/index.html#comments</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 02 Aug 2023 05:56:38 +0000</pubDate>
+				<guid isPermaLink="false">./../../../index.html?post_type=product#038;p=1516</guid>
+
+					<description><![CDATA[This black work lamp with classic shapes and directional light is perfect to have as a reading lamp by the bed, sofa or on the desk.]]></description>
+										<content:encoded><![CDATA[<p class="pip-product-details__paragraph">You can easily direct the light where you want it because the lamp arm is adjustable.</p>
+<p class="pip-product-details__paragraph">Provides a directed light that is great for reading.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../product/work-lamp-black/feed/index.html</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Table lamp, brass/white</title>
+		<link>./../../../product/table-lamp-brass-white/index.html</link>
+					<comments>./../../../product/table-lamp-brass-white/index.html#comments</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 02 Aug 2023 05:56:33 +0000</pubDate>
+				<guid isPermaLink="false">./../../../index.html?post_type=product#038;p=1515</guid>
+
+					<description><![CDATA[One of our most cherished lamp series and it’s no wonder why – it has a timeless design that fits right in. Combine several lamps from the series to create a soft, comfortable light and a unified look.]]></description>
+										<content:encoded><![CDATA[<p class="pip-product-details__paragraph">The textile shade provides a diffused and decorative light.</p>
+<div></div>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../product/table-lamp-brass-white/feed/index.html</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
